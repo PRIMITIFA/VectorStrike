@@ -1,0 +1,15 @@
+keyboard
+requests
+pymem
+pynput
+pyqt5
+pywin32
+psutil
+pyarmor
+cryptography
+glfw
+supabase
+python-dotenv
+keyring
+PyQtWebEngine
+PyQt6
